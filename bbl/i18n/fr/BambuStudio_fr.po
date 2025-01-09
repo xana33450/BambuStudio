@@ -17,7 +17,7 @@ msgid "Supports Painting"
 msgstr "Supports Peints"
 
 msgid "Please select single object."
-msgstr "Please select single object."
+msgstr "Merci de sélectionné un seul objert."
 
 msgid "Mouse wheel"
 msgstr "Molette de souris"
